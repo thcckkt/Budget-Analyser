@@ -1,5 +1,6 @@
 # Budget-Analyser
-A simple program for analyze your budget/bill
+A small program for analyze your budget/bill
+一个简易的程序用来管理你的消费
 
 This is my first time try to code something
 It's simple now, but I'll try to update it next few weeks
